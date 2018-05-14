@@ -1,0 +1,1781 @@
+status: 200
+content-length: 100266
+x-dae-app: movie
+vary: Accept-Encoding
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-douban-mobileapp: 0
+keep-alive: timeout=30
+x-douban-newbid: ZTgtB7Zbzuc
+cache-control: must-revalidate, no-cache, private
+set-cookie: ll="118172"; path=/; domain=.douban.com;
+ expires=Tue, 14-May-2019 05:31:51 GMT, bid=ZTgtB7Zbzuc;
+ Expires=Tue, 14-May-19 05:31:51 GMT; Domain=.douban.com; Path=/
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+-content-encoding: gzip
+pragma: no-cache
+date: Mon, 14 May 2018 05:31:51 GMT
+content-location: https://movie.douban.com/
+x-dae-node: sindar13c
+server: dae
+connection: keep-alive
+content-type: text/html; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <title>
+        豆瓣电影
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.douban.com/movie/">
+    <meta property="qc:admins" content="13753521351564752166375" />
+    
+    
+    <meta name="keywords" content="电影、经典电影、热映、电视剧、美剧、影评、电影院、电影票、排行、推荐"/>
+    <meta name="description" content="豆瓣电影提供最新的电影介绍及评论包括上映影片的影讯查询及购票服务。你可以记录想看、在看和看过的电影电视剧，顺便打分、写影评。根据你的口味，豆瓣电影会推荐好电影给你。" />
+
+    <link rel="apple-touch-icon" href="https://img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="https://img3.doubanio.com/f/shire/bf61b1fa02f564a4a8f809da7c7179b883a56146/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="https://img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="https://img3.doubanio.com/f/movie/8864d3756094f5272d3c93e30ee2e324665855b0/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/40e5fd47dadd542654d9421d954f5296266c2e25/js/douban.js"></script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+    
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/movie/587856b78f46ea9f546a570724e03591afb37cfa/css/movie/home.css" />
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"    ></script>
+    <script>
+        Do.global('https://img3.doubanio.com/f/shire/0e82fba9c90a7daffc62dd2f80b23ff31c5e4739/js/separation/prettyfield.js');
+        Do.global('https://img3.doubanio.com/f/shire/aef14a3cb852be78af0d48b0534beeea33035c0f/js/core/moreurl.js');
+    </script>
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    <style type="text/css"></style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/5056301a7435939c.css">
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=movie" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=movie" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 5.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="https://movie.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/19507ad/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tag/"
+     >分类</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2017?source=navigation"
+     >2017年度榜单</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/standbyme/2017?source=navigation"
+     >2017观影报告</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/19507ad/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+        <div class="grid-16-8 clearfix">
+            
+    <div id="dale_movie_homepage_top_large"></div>
+
+            
+            <div class="article">
+                
+    <div id="dale_movie_home_main_top"></div>
+
+    <script id="db-tmpl-subject-tip" type="text/x-jquery-tmpl">
+        <div id="subject-tip">
+            <div class="subject-tip-hd">
+                <h3>{{= title}}<span class="release-year">{{= release}}</span></h3>
+                <p class="star">
+                    <span class="allstar{{= star}}"></span>
+                    {{if star != '00' }}
+                        <span class="subject-rating">{{= parseFloat(rate).toFixed(1)}}</span>
+                    {{/if}}
+                    {{if enough}}
+                        <span class="rater-num">({{= rater}}人评价)</span>
+                    {{/if}}
+                </p>
+            </div>
+            <div class="subject-tip-bd">
+                <ul>
+                    <li><span>{{= duration}}</span><span>{{= type}}</span><span>{{= region}}</span></li>
+                    <li class="director"><span class="label">导演</span><span>{{= director}}</span></li>
+                    <li class="actors"><span class="label">主演</span><span>{{= actors}}</span></li>
+                </ul>
+                {{if intro}}
+                    <div class="subject-intro">
+                        {{= intro}}
+                    </div>
+                {{/if}}
+            </div>
+        </div>
+    </script>
+
+    
+
+    
+    
+    
+    <div id="screening" class="s" data-dstat-areaid="70" data-dstat-mode="click,expose">
+        <div class="screening-hd">
+                <div class="ui-slide-control">
+                    <span class="prev-btn"><a class="btn-prev" href="javascript:void(0)"></a></span>
+                    <span class="next-btn"><a class="btn-next" href="javascript:void(0)"></a></span>
+                </div>
+                <div class="slide-tip"><span class="ui-slide-index">1</span> / <span class="ui-slide-max">5</span></div>
+            <h2>正在热映<span><a onclick="moreurl(this, {from:'mv_l_a'})" href="/cinema/nowplaying/">全部正在热映&raquo;</a></span><span><a onclick="moreurl(this, {from:'mv_l_w'})" href="./later/">即将上映&raquo;</a></span></h2>
+        </div>
+        <div class="screening-bd">
+            <ul class="ui-slide-content" data-slide-index="1" data-index-max="5">
+                        
+                        
+                    <li class="ui-slide-item s" data-dstat-areaid=70_1 data-dstat-mode=click,expose data-dstat-watch=.ui-slide-content data-dstat-viewport=.screening-bd data-title="复仇者联盟3：无限战争 Avengers: Infinity War" data-release="2018" data-rate="8.5" data-star="45" data-trailer="https://movie.douban.com/subject/24773958/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F248170%3F_v_%3Dyes%26merCode%3D1000011" data-duration="150分钟" data-region="美国" data-director="安东尼·卢素" data-actors="小罗伯特·唐尼 / 克里斯·海姆斯沃斯 / 克里斯·埃文斯" data-intro="" data-enough="true" data-rater="185230">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/24773958/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517753454.jpg" alt="复仇者联盟3：无限战争" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/24773958/?from=showing" class="">复仇者联盟3...</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar45"></span><span class="subject-rate">8.5</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F248170%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="我是你妈" data-release="2018" data-rate="5.0" data-star="25" data-trailer="https://movie.douban.com/subject/26968024/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1206839%3F_v_%3Dyes%26merCode%3D1000011" data-duration="104分钟" data-region="中国大陆" data-director="张骁" data-actors="闫妮 / 邹元清 / 吴若甫" data-intro="" data-enough="true" data-rater="1416">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26968024/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520200484.jpg" alt="我是你妈" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26968024/?from=showing" class="">我是你妈</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar25"></span><span class="subject-rate">5.0</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1206839%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="后来的我们" data-release="2018" data-rate="5.8" data-star="30" data-trailer="https://movie.douban.com/subject/26683723/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F343720%3F_v_%3Dyes%26merCode%3D1000011" data-duration="120分钟" data-region="中国大陆" data-director="刘若英" data-actors="井柏然 / 周冬雨 / 田壮壮" data-intro="" data-enough="true" data-rater="117576">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26683723/?from=showing">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519994468.jpg" alt="后来的我们" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26683723/?from=showing" class="">后来的我们</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar30"></span><span class="subject-rate">5.8</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F343720%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="战犬瑞克斯 Megan Leavey" data-release="2017" data-rate="7.0" data-star="35" data-trailer="https://movie.douban.com/subject/26610786/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F603864%3F_v_%3Dyes%26merCode%3D1000011" data-duration="116分钟" data-region="美国" data-director="加芙列拉·考珀斯维特" data-actors="凯特·玛拉 / 汤姆·费尔顿 / 布莱德利·惠特福德" data-intro="" data-enough="true" data-rater="3762">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26610786/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520197352.jpg" alt="战犬瑞克斯" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26610786/?from=showing" class="">战犬瑞克斯</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar35"></span><span class="subject-rate">7.0</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F603864%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="幕后玩家" data-release="2018" data-rate="6.0" data-star="30" data-trailer="https://movie.douban.com/subject/26774033/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F346637%3F_v_%3Dyes%26merCode%3D1000011" data-duration="114分钟" data-region="中国大陆" data-director="任鹏远" data-actors="徐峥 / 王丽坤 / 王砚辉" data-intro="" data-enough="true" data-rater="41529">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26774033/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520543845.jpg" alt="幕后玩家" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26774033/?from=showing" class="">幕后玩家</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar30"></span><span class="subject-rate">6.0</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F346637%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item s" data-dstat-areaid=70_2 data-dstat-mode=click,expose data-dstat-watch=.ui-slide-content data-dstat-viewport=.screening-bd data-title="巴霍巴利王2：终结 Baahubali 2: The Conclusion" data-release="2017" data-rate="7.0" data-star="35" data-trailer="https://movie.douban.com/subject/26420932/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F342791%3F_v_%3Dyes%26merCode%3D1000011" data-duration="141分钟(中国大陆)" data-region="印度" data-director="S·S·拉贾穆里" data-actors="帕拉巴斯 / 拉纳·达格巴提 / 安努舒卡·谢蒂" data-intro="" data-enough="true" data-rater="18567">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26420932/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521118750.jpg" alt="巴霍巴利王2：终结" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26420932/?from=showing" class="">巴霍巴利王2...</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar35"></span><span class="subject-rate">7.0</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F342791%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="亲爱的，我要和别人结婚了" data-release="2018" data-rate="" data-star="00" data-trailer="https://movie.douban.com/subject/27608425/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1218267%3F_v_%3Dyes%26merCode%3D1000011" data-duration="92分钟" data-region="中国大陆" data-director="覃杰" data-actors="保剑锋 / 戚砚笛 / 徐一娢" data-intro="" data-enough="false" data-rater="205">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/27608425/?from=showing">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521617417.jpg" alt="亲爱的，我要和别人结婚了" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/27608425/?from=showing" class="">亲爱的，我要...</a>
+                            </li>
+                            <li class="rating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1218267%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="小公主艾薇拉与神秘王国" data-release="2018" data-rate="3.6" data-star="20" data-trailer="https://movie.douban.com/subject/30183489/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1217651%3F_v_%3Dyes%26merCode%3D1000011" data-duration="78分钟" data-region="中国大陆" data-director="罗洋" data-actors="" data-intro="" data-enough="true" data-rater="242">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/30183489/?from=showing">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517769368.jpg" alt="小公主艾薇拉与神秘王国" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/30183489/?from=showing" class="">小公主艾薇拉...</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar20"></span><span class="subject-rate">3.6</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1217651%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="头号玩家 Ready Player One" data-release="2018" data-rate="8.9" data-star="45" data-trailer="https://movie.douban.com/subject/4920389/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F341178%3F_v_%3Dyes%26merCode%3D1000011" data-duration="140分钟" data-region="美国" data-director="史蒂文·斯皮尔伯格" data-actors="泰伊·谢里丹 / 奥利维亚·库克 / 本·门德尔森" data-intro="" data-enough="true" data-rater="419936">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/4920389/?from=showing">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg" alt="头号玩家" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/4920389/?from=showing" class="">头号玩家</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar45"></span><span class="subject-rate">8.9</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F341178%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="午夜十二点" data-release="2018" data-rate="" data-star="00" data-trailer="https://movie.douban.com/subject/30187395/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1210869%3F_v_%3Dyes%26merCode%3D1000011" data-duration="87分钟" data-region="中国大陆" data-director="张孝爽" data-actors="谭佑铭 / 倪新宇 / 胡悦" data-intro="" data-enough="false" data-rater="96">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/30187395/?from=showing">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518236317.jpg" alt="午夜十二点" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/30187395/?from=showing" class="">午夜十二点</a>
+                            </li>
+                            <li class="rating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1210869%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item s" data-dstat-areaid=70_3 data-dstat-mode=click,expose data-dstat-watch=.ui-slide-content data-dstat-viewport=.screening-bd data-title="狂暴巨兽 Rampage" data-release="2018" data-rate="6.7" data-star="35" data-trailer="https://movie.douban.com/subject/26430636/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F341624%3F_v_%3Dyes%26merCode%3D1000011" data-duration="107分钟" data-region="美国" data-director="布拉德·佩顿" data-actors="道恩·强森 / 娜奥米·哈里斯 / 杰弗里·迪恩·摩根" data-intro="" data-enough="true" data-rater="53106">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26430636/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516079193.jpg" alt="狂暴巨兽" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26430636/?from=showing" class="">狂暴巨兽</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar35"></span><span class="subject-rate">6.7</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F341624%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="七号公馆" data-release="2018" data-rate="" data-star="00" data-trailer="https://movie.douban.com/subject/27065636/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F344419%3F_v_%3Dyes%26merCode%3D1000011" data-duration="94分钟" data-region="中国大陆" data-director="叶天行" data-actors="梁小龙 / 张继聪 / 林雪" data-intro="" data-enough="false" data-rater="26">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/27065636/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520931773.jpg" alt="七号公馆" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/27065636/?from=showing" class="">七号公馆</a>
+                            </li>
+                            <li class="rating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F344419%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="低压槽：欲望之城 低壓槽" data-release="2018" data-rate="4.7" data-star="25" data-trailer="https://movie.douban.com/subject/26924141/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1198439%3F_v_%3Dyes%26merCode%3D1000011" data-duration="112分钟" data-region="中国大陆" data-director="张家辉" data-actors="张家辉 / 徐静蕾 / 何炅" data-intro="" data-enough="true" data-rater="4554">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26924141/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520457270.jpg" alt="低压槽：欲望之城" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26924141/?from=showing" class="">低压槽：欲望...</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar25"></span><span class="subject-rate">4.7</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1198439%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="青年马克思 Le jeune Karl Marx" data-release="2017" data-rate="6.5" data-star="35" data-trailer="https://movie.douban.com/subject/5330387/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F528054%3F_v_%3Dyes%26merCode%3D1000011" data-duration="115分钟(中国大陆)" data-region="法国" data-director="哈乌·佩克" data-actors="奥古斯特·迪尔 / 史特凡·柯纳斯克 / 薇姬·克里普斯" data-intro="" data-enough="true" data-rater="1925">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/5330387/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521271645.jpg" alt="青年马克思" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/5330387/?from=showing" class="">青年马克思</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar35"></span><span class="subject-rate">6.5</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F528054%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="黄金花" data-release="2017" data-rate="6.5" data-star="35" data-trailer="https://movie.douban.com/subject/26868408/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1183637%3F_v_%3Dyes%26merCode%3D1000011" data-duration="91分钟" data-region="中国大陆" data-director="陈大利" data-actors="毛舜筠 / 凌文龙 / 吕良伟" data-intro="" data-enough="true" data-rater="1176">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26868408/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520198192.jpg" alt="黄金花" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26868408/?from=showing" class="">黄金花</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar35"></span><span class="subject-rate">6.5</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1183637%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item s" data-dstat-areaid=70_4 data-dstat-mode=click,expose data-dstat-watch=.ui-slide-content data-dstat-viewport=.screening-bd data-title="玛丽与魔女之花 メアリと魔女の花" data-release="2017" data-rate="6.4" data-star="35" data-trailer="https://movie.douban.com/subject/26935777/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1199029%3F_v_%3Dyes%26merCode%3D1000011" data-duration="103分钟(中国大陆)" data-region="日本" data-director="米林宏昌" data-actors="杉咲花 / 神木隆之介 / 天海祐希" data-intro="" data-enough="true" data-rater="7270">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26935777/?from=showing">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521033758.jpg" alt="玛丽与魔女之花" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26935777/?from=showing" class="">玛丽与魔女之...</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar35"></span><span class="subject-rate">6.4</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1199029%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="犬之岛 Isle of Dogs" data-release="2018" data-rate="8.4" data-star="45" data-trailer="https://movie.douban.com/subject/26640371/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1199188%3F_v_%3Dyes%26merCode%3D1000011" data-duration="102分钟(中国大陆)" data-region="美国" data-director="韦斯·安德森" data-actors="布莱恩·科兰斯顿 / 爱德华·诺顿 / 科宇·兰金" data-intro="" data-enough="true" data-rater="71542">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26640371/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518856022.jpg" alt="犬之岛" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26640371/?from=showing" class="">犬之岛</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar45"></span><span class="subject-rate">8.4</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1199188%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="冰雪女王3：火与冰 Снежная королева 3: Огонь и лед" data-release="2016" data-rate="4.4" data-star="25" data-trailer="https://movie.douban.com/subject/26588783/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F341941%3F_v_%3Dyes%26merCode%3D1000011" data-duration="90分钟(中国大陆)" data-region="俄罗斯" data-director="阿列克谢·特斯蒂斯林" data-actors="迪·布拉雷·贝克尔 / 洛瑞·加纳 / Devin" data-intro="" data-enough="true" data-rater="1299">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26588783/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517033932.jpg" alt="冰雪女王3：火与冰" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26588783/?from=showing" class="">冰雪女王3：...</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar25"></span><span class="subject-rate">4.4</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F341941%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="起跑线 Hindi Medium" data-release="2017" data-rate="8.0" data-star="40" data-trailer="https://movie.douban.com/subject/26942631/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F881837%3F_v_%3Dyes%26merCode%3D1000011" data-duration="131分钟(中国大陆)" data-region="印度" data-director="萨基特·乔杜里" data-actors="伊尔凡·可汗 / 萨巴·卡玛尔 / 内哈·迪胡皮阿" data-intro="" data-enough="true" data-rater="59562">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26942631/?from=showing">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517518428.jpg" alt="起跑线" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26942631/?from=showing" class="">起跑线</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar40"></span><span class="subject-rate">8.0</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F881837%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="天梦" data-release="2018" data-rate="" data-star="00" data-trailer="https://movie.douban.com/subject/26682831/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F492680%3F_v_%3Dyes%26merCode%3D1000011" data-duration="91分钟" data-region="中国大陆" data-director="许文琦" data-actors="金巧巧 / 何中华 / 张萍娟" data-intro="" data-enough="false" data-rater="18">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26682831/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518649401.jpg" alt="天梦" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26682831/?from=showing" class="">天梦</a>
+                            </li>
+                            <li class="rating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F492680%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item s" data-dstat-areaid=70_5 data-dstat-mode=click,expose data-dstat-watch=.ui-slide-content data-dstat-viewport=.screening-bd data-title="战神纪" data-release="2018" data-rate="3.6" data-star="20" data-trailer="https://movie.douban.com/subject/25881611/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F345013%3F_v_%3Dyes%26merCode%3D1000011" data-duration="119分钟" data-region="中国大陆" data-director="哈斯朝鲁" data-actors="陈伟霆 / 林允 / 胡军" data-intro="" data-enough="true" data-rater="10433">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/25881611/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519726014.jpg" alt="战神纪" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/25881611/?from=showing" class="">战神纪</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar20"></span><span class="subject-rate">3.6</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F345013%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="21克拉" data-release="2018" data-rate="5.2" data-star="25" data-trailer="https://movie.douban.com/subject/26691361/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F344950%3F_v_%3Dyes%26merCode%3D1000011" data-duration="96分钟" data-region="中国大陆" data-director="何念" data-actors="郭京飞 / 迪丽热巴·迪力木拉提 / 大鹏" data-intro="" data-enough="true" data-rater="15529">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/26691361/?from=showing">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518945837.jpg" alt="21克拉" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/26691361/?from=showing" class="">21克拉</a>
+                            </li>
+                            <li class="rating">
+                                        <span class="rating-star allstar25"></span><span class="subject-rate">5.2</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F344950%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                        
+                        
+                    <li class="ui-slide-item"  data-title="凌晨两点半" data-release="2018" data-rate="" data-star="00" data-trailer="https://movie.douban.com/subject/27200820/trailer" data-ticket="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1212344%3F_v_%3Dyes%26merCode%3D1000011" data-duration="86分钟" data-region="中国大陆" data-director="王静儿" data-actors="陈美行 / 周庚禹 / 王子航" data-intro="" data-enough="false" data-rater="174">
+                        <ul class="">
+                            <li class="poster">
+                                <a onclick="moreurl(this, {from:'mv_a_pst'})" href="https://movie.douban.com/subject/27200820/?from=showing">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516839084.jpg" alt="凌晨两点半" rel="nofollow" class="" />
+                                </a>
+                            </li>
+                            <li class="title">
+                                <a onclick="moreurl(this, {from:'mv_a_tl'})" href="https://movie.douban.com/subject/27200820/?from=showing" class="">凌晨两点半</a>
+                            </li>
+                            <li class="rating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="ticket_btn"><span><a onclick="moreurl(this, {from:'mv_b_tc'})" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1212344%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">选座购票</a></span></li>
+                        </ul>
+                    <li class="ui-slide-item">
+                    <li class="ui-slide-item">
+            </ul>
+        </div>
+    </div>
+    
+    
+
+
+    <!-- douban ad begin -->
+    <div id="movie_home_left_bottom" class="mb20 s" data-dstat-areaid="72" data-dstat-mode="click,expose"></div>
+    <!-- douban ad end -->
+
+        
+
+        
+
+<div class="gaia gaia-lite gaia-movie">
+    <div class="detail-pop"></div>
+    <input type="hidden" name="islogin" value="false">
+    <div class="fliter-wp">
+      <h2>
+          <div data-type="movie">最近热门电影</div>
+          <div class="filter">
+              <form action="get" class="gaia_frm" autocomplete="off">
+                  <input type="hidden" name="type" value="movie">
+                  <div class="tags">
+                      <div class="tag-list"></div>
+                  </div>
+                  <input type="hidden" name="page_limit" value="20">
+                  <input type="hidden" name="page_start" value="0">
+              </form>
+          </div>
+          <div class="fliter-placeholder"></div>
+          <a href="/explore" class="more-link">更多»</a>
+      </h2>
+    </div>
+    
+<div class="list-wp">
+    <div class="list"></div>
+    <a class="more" href="javascript:;">载入中...</a>
+</div>
+
+    
+    
+    <script type="text/tmpl" id="tag-tmpl">
+        <label>
+            <%= _.escape(val)%>
+            <input type="radio" name="<%= type%>" value="<%= _.escape(val)%>">
+            <% if (custom) { %>
+                <a href="javascript:;" class="remove">x</a>
+            <% } %>
+        </label>
+    </script>
+
+    <script type="text/tmpl" id="subject-tmpl">
+        <% if (playable) { %>
+        <a class="item" target="_blank" href="<%= url%>?tag=<%= tag%>&from=gaia_video">
+        <% } else {%>
+        <a class="item" target="_blank" href="<%= url%>?tag=<%= tag%>&from=gaia">
+        <% } %>
+            <div class="cover-wp" data-isnew="<%= is_new%>" data-id="<%= id%>">
+                <img src="<%= cover%>" alt="<%= title%>" data-x="<%= cover_x%>" data-y="<%= cover_y%>"/>
+            </div>
+            <p>
+                <% if (is_new) { %>
+                    <span class="green">
+                        <img src="https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png" width="16" class="new" />
+                    </span>
+                <% } %>
+
+                <%= title%>
+
+                <% if (rate !== '') { %>
+                    <strong><%= rate%></strong>
+                <% } else {%>
+                    <span>暂无评分</span>
+                <% } %>
+            </p>
+        </a>
+    </script>
+
+    <script type="text/tmpl" id="subject-info-tmpl">
+        <div class="wp">
+            <div class="info">
+                <% if (playable) { %>
+                <h3><a target="_blank" href="<%= url%>?tag=<%= tag%>&from=gaia_video"><%= title%></a></h3>
+                <% } else { %>
+                <h3><a target="_blank" href="<%= url%>?tag=<%= tag%>&from=gaia"><%= title%></a></h3>
+                <% } %>
+                <p class="rank">
+                    <% if (rate !== '') { %>
+                        <span class="ll bigstar<%= star%>"></span>&nbsp;&nbsp;
+                        <strong><%= rate%></strong>
+                    <% } else { %>
+                        暂无评分
+                    <% } %>
+                </p>
+                <p class="meta">
+                    <% if (playable) { %>
+                        <span class="green">可播放</span>
+                    <% } %>
+                    <% if (playable && is_new) { %>
+                        <span class="green">新出片源</span>
+                    <% } else if (is_new) { %>
+                        <span class="green">本周新片</span>
+                    <% } %>
+                    <% if (duration) { %>
+                        <span><%= duration%></span>
+                    <% } %>
+                    <% if (episodes_count) { %>
+                        <span><%= episodes_count%>集</span>
+                    <% } %>
+                    <% if (region) { %>
+                        <span><%= region%></span>
+                    <% } %>
+                    <% if (types) { %>
+                        <% _.each (types.slice(0,3), function(type){ %>
+                        <span><%= type%></span>
+                        <% }) %>
+                    <% } %>
+                    <% if (directors.length) { %>
+                        <span><%= directors[0]%>(导演)</span>
+                    <% } %>
+                    <% if (actors) { %>
+                        <% _.each (actors.slice(0,3), function(actor){ %>
+                        <span><%= actor%></span>
+                        <% }) %>
+                    <% } %>
+                </p>
+                <p class="collect-area">
+                    <% if (collection_status === 'F') { %>
+                        <% if (is_tv) { %>
+                            <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-do">在看</a>
+                        <% } %>
+                        <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-collect">看过</a>
+                        <span>已想看</span>
+                    <% } else if (is_tv && collection_status === 'N') { %>
+                        <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-collect">看过</a>
+                        <span>已在看</span>
+                    <% } else if (collection_status === 'P') { %>
+                        <span>已看过</span>
+                    <% } else { %>
+                        <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-wish">想看</a>
+                        <% if (is_tv) { %>
+                            <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-do">在看</a>
+                        <% } %>
+                        <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-collect">看过</a>
+                    <% } %>
+                </p>
+            </div>
+            <% if (short_comment.content) {%>
+            <p class="comment">
+                <%= short_comment.content%>
+                <span>- <%= short_comment.author%>的短评</span>
+            </p>
+            <% } %>
+        </div>
+    </script>
+
+    <script type="text/tmpl" id="gaia-slide-tmpl">
+        <div class="slider">
+            <div class="slide-container" style="height: <%= slideHeight %>px;">
+                <div class="slide-wrapper" style="width: <%= slideWidth * (pageCount + 2) %>px;">
+                    <div class="slide-page" style="width: <%= slideWidth %>px;" data-index="<%= pageCount - 1%>"></div>
+                    <% for (var i = 0; i < pageCount; i++) { %>
+                        <div class="slide-page" style="width: <%= slideWidth %>px;" data-index="<%= i %>"></div>
+                    <% } %>
+                    <div class="slide-page" style="width: <%= slideWidth %>px;" data-index="0"></div>
+                </div>
+            </div>
+            <div class="slide-ctrl ui-slide-control">
+                <a class="btn-prev" href="javascript:void(0)"></a>
+                    <% for (var i = 0; i < pageCount; i++) { %>
+                        <i class="dot <%= i === 0 ? 'activate' : '' %>" data-index="<%= i %>"></i>
+                    <% } %>
+                <a class="btn-next" href="javascript:void(0)"></a>
+            </div>
+        </div>
+    </script>
+    
+
+</div>
+
+        
+
+<div class="gaia gaia-lite gaia-tv">
+    <div class="detail-pop"></div>
+    <input type="hidden" name="islogin" value="false">
+    <div class="fliter-wp">
+      <h2>
+          <div data-type="tv">最近热门电视剧</div>
+          <div class="filter">
+              <form action="get" class="gaia_frm" autocomplete="off">
+                  <input type="hidden" name="type" value="movie">
+                  <div class="tags">
+                      <div class="tag-list"></div>
+                  </div>
+                  <input type="hidden" name="page_limit" value="20">
+                  <input type="hidden" name="page_start" value="0">
+              </form>
+          </div>
+          <div class="fliter-placeholder"></div>
+          <a href="/tv" class="more-link">更多»</a>
+      </h2>
+    </div>
+    
+<div class="list-wp">
+    <div class="list"></div>
+    <a class="more" href="javascript:;">载入中...</a>
+</div>
+
+    
+    
+    <script type="text/tmpl" id="tag-tmpl">
+        <label>
+            <%= _.escape(val)%>
+            <input type="radio" name="<%= type%>" value="<%= _.escape(val)%>">
+            <% if (custom) { %>
+                <a href="javascript:;" class="remove">x</a>
+            <% } %>
+        </label>
+    </script>
+
+    <script type="text/tmpl" id="subject-tmpl">
+        <% if (playable) { %>
+        <a class="item" target="_blank" href="<%= url%>?tag=<%= tag%>&from=gaia_video">
+        <% } else {%>
+        <a class="item" target="_blank" href="<%= url%>?tag=<%= tag%>&from=gaia">
+        <% } %>
+            <div class="cover-wp" data-isnew="<%= is_new%>" data-id="<%= id%>">
+                <img src="<%= cover%>" alt="<%= title%>" data-x="<%= cover_x%>" data-y="<%= cover_y%>"/>
+            </div>
+            <p>
+                <% if (is_new) { %>
+                    <span class="green">
+                        <img src="https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png" width="16" class="new" />
+                    </span>
+                <% } %>
+
+                <%= title%>
+
+                <% if (rate !== '') { %>
+                    <strong><%= rate%></strong>
+                <% } else {%>
+                    <span>暂无评分</span>
+                <% } %>
+            </p>
+        </a>
+    </script>
+
+    <script type="text/tmpl" id="subject-info-tmpl">
+        <div class="wp">
+            <div class="info">
+                <% if (playable) { %>
+                <h3><a target="_blank" href="<%= url%>?tag=<%= tag%>&from=gaia_video"><%= title%></a></h3>
+                <% } else { %>
+                <h3><a target="_blank" href="<%= url%>?tag=<%= tag%>&from=gaia"><%= title%></a></h3>
+                <% } %>
+                <p class="rank">
+                    <% if (rate !== '') { %>
+                        <span class="ll bigstar<%= star%>"></span>&nbsp;&nbsp;
+                        <strong><%= rate%></strong>
+                    <% } else { %>
+                        暂无评分
+                    <% } %>
+                </p>
+                <p class="meta">
+                    <% if (playable) { %>
+                        <span class="green">可播放</span>
+                    <% } %>
+                    <% if (playable && is_new) { %>
+                        <span class="green">新出片源</span>
+                    <% } else if (is_new) { %>
+                        <span class="green">本周新片</span>
+                    <% } %>
+                    <% if (duration) { %>
+                        <span><%= duration%></span>
+                    <% } %>
+                    <% if (episodes_count) { %>
+                        <span><%= episodes_count%>集</span>
+                    <% } %>
+                    <% if (region) { %>
+                        <span><%= region%></span>
+                    <% } %>
+                    <% if (types) { %>
+                        <% _.each (types.slice(0,3), function(type){ %>
+                        <span><%= type%></span>
+                        <% }) %>
+                    <% } %>
+                    <% if (directors.length) { %>
+                        <span><%= directors[0]%>(导演)</span>
+                    <% } %>
+                    <% if (actors) { %>
+                        <% _.each (actors.slice(0,3), function(actor){ %>
+                        <span><%= actor%></span>
+                        <% }) %>
+                    <% } %>
+                </p>
+                <p class="collect-area">
+                    <% if (collection_status === 'F') { %>
+                        <% if (is_tv) { %>
+                            <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-do">在看</a>
+                        <% } %>
+                        <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-collect">看过</a>
+                        <span>已想看</span>
+                    <% } else if (is_tv && collection_status === 'N') { %>
+                        <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-collect">看过</a>
+                        <span>已在看</span>
+                    <% } else if (collection_status === 'P') { %>
+                        <span>已看过</span>
+                    <% } else { %>
+                        <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-wish">想看</a>
+                        <% if (is_tv) { %>
+                            <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-do">在看</a>
+                        <% } %>
+                        <a href="javascript:;" rel="nofollow" class="j a_collect_btn" name="sbtn-<%= id%>-collect">看过</a>
+                    <% } %>
+                </p>
+            </div>
+            <% if (short_comment.content) {%>
+            <p class="comment">
+                <%= short_comment.content%>
+                <span>- <%= short_comment.author%>的短评</span>
+            </p>
+            <% } %>
+        </div>
+    </script>
+
+    <script type="text/tmpl" id="gaia-slide-tmpl">
+        <div class="slider">
+            <div class="slide-container" style="height: <%= slideHeight %>px;">
+                <div class="slide-wrapper" style="width: <%= slideWidth * (pageCount + 2) %>px;">
+                    <div class="slide-page" style="width: <%= slideWidth %>px;" data-index="<%= pageCount - 1%>"></div>
+                    <% for (var i = 0; i < pageCount; i++) { %>
+                        <div class="slide-page" style="width: <%= slideWidth %>px;" data-index="<%= i %>"></div>
+                    <% } %>
+                    <div class="slide-page" style="width: <%= slideWidth %>px;" data-index="0"></div>
+                </div>
+            </div>
+            <div class="slide-ctrl ui-slide-control">
+                <a class="btn-prev" href="javascript:void(0)"></a>
+                    <% for (var i = 0; i < pageCount; i++) { %>
+                        <i class="dot <%= i === 0 ? 'activate' : '' %>" data-index="<%= i %>"></i>
+                    <% } %>
+                <a class="btn-next" href="javascript:void(0)"></a>
+            </div>
+        </div>
+    </script>
+    
+
+</div>
+
+
+        
+        
+<link rel="stylesheet" href="https://img3.doubanio.com/f/movie/e27b13e6547399b3101c03fa007362ab4efc9e8f/css/movie/gallery.css" />
+<div id="gallery-frames">
+    <div class="gallery-hd">
+            <div class="gallery-ui-slide-control">
+                <span class="prev-btn"><a class="gallery-btn-prev" href="javascript:void(0)"></a></span>
+                <span class="next-btn"><a class="gallery-btn-next" href="javascript:void(0)"></a></span>
+            </div>
+            <div class="slide-tip"><span class="gallery-ui-slide-index">1</span> / <span class="gallery-ui-slide-max">6</span></div>
+            <h2>热门推荐</h2>
+    </div>
+    <div id="hot-gallery">
+        <ul class='ui-slide-content'>
+                <li class='ui-slide-item'>
+                    
+<div class="gallery-frame">
+        <a href="https://movie.douban.com/trailer/230792/?from=gallery" target="_blank" data-fid="2997">
+            <img src="https://img1.doubanio.com/view/movie_gallery_frame_hot_rec/normal/public/38be0f5f7e2c249.jpg" alt="《复联3》角色全灭？" width="350" height="240"/>
+        </a>
+    <div class="gallery-detail">
+        <div class="gallery-hd">
+                <a href="https://movie.douban.com/trailer/230792/?from=gallery" target="_blank" data-fid="2997">
+                    <h3>《复联3》角色全灭？</h3>
+                </a>
+        </div>
+        <div class="gallery-bd">
+            <p>
+                导演罗素兄弟《复联3》机智“剧透”！
+            </p>
+        </div>
+    </div>
+</div>
+
+                </li>
+                <li class='ui-slide-item'>
+                    
+<div class="gallery-frame">
+        <a href="https://movie.douban.com/review/9360289/?from=gallery" target="_blank" data-fid="2998">
+            <img src="https://img3.doubanio.com/view/movie_gallery_frame_hot_rec/normal/public/3ea17b89fd6c976.jpg" alt="《复联3》最全80个彩蛋，我们给你找齐了" width="350" height="240"/>
+        </a>
+    <div class="gallery-detail">
+        <div class="gallery-hd">
+                <a href="https://movie.douban.com/review/9360289/?from=gallery" target="_blank" data-fid="2998">
+                    <h3>《复联3》最全80个彩蛋，我们给你找齐了</h3>
+                </a>
+        </div>
+        <div class="gallery-bd">
+            <p>
+                今天你二刷了吗？
+            </p>
+        </div>
+    </div>
+</div>
+
+                </li>
+                <li class='ui-slide-item'>
+                    
+<div class="gallery-frame">
+        <a href="https://www.douban.com/note/668891697/?from=gallery" target="_blank" data-fid="2996">
+            <img src="https://img3.doubanio.com/view/movie_gallery_frame_hot_rec/normal/public/7768d9aaf3f808f.jpg" alt="本周最炸！《大福3》定档2020年圣诞" width="350" height="240"/>
+        </a>
+    <div class="gallery-detail">
+        <div class="gallery-hd">
+                <a href="https://www.douban.com/note/668891697/?from=gallery" target="_blank" data-fid="2996">
+                    <h3>本周最炸！《大福3》定档2020年圣诞</h3>
+                </a>
+        </div>
+        <div class="gallery-bd">
+            <p>
+                两大男主小罗伯特·唐尼、裘德·洛双双回归。大腐3日常溜粉大戏终于落下帷幕！@一周大新闻
+            </p>
+        </div>
+    </div>
+</div>
+
+                </li>
+                <li class='ui-slide-item'>
+                    
+<div class="gallery-frame">
+        <a href="https://site.douban.com/cannes/widget/notes/193777197/note/669360607/?from=gallery" target="_blank" data-fid="2994">
+            <img src="https://img3.doubanio.com/view/movie_gallery_frame_hot_rec/normal/public/b4a0ca696cab3f3.jpg" alt="戛纳Day4&amp;5：带你认识这位戛纳亲儿子" width="350" height="240"/>
+        </a>
+    <div class="gallery-detail">
+        <div class="gallery-hd">
+                <a href="https://site.douban.com/cannes/widget/notes/193777197/note/669360607/?from=gallery" target="_blank" data-fid="2994">
+                    <h3>戛纳Day4&amp;5：带你认识这位戛纳亲儿子</h3>
+                </a>
+        </div>
+        <div class="gallery-bd">
+            <p>
+                来戛纳的第七年，一切都回到电影本身。
+            </p>
+        </div>
+    </div>
+</div>
+
+                </li>
+                <li class='ui-slide-item'>
+                    
+<div class="gallery-frame">
+        <a href="https://movie.douban.com/trailer/230567/?from=gallery" target="_blank" data-fid="2992">
+            <img src="https://img1.doubanio.com/view/movie_gallery_frame_hot_rec/normal/public/b8ce231af9f9007.jpg" alt="本喵&amp;休叔主演《英国式丑闻》5.20开播" width="350" height="240"/>
+        </a>
+    <div class="gallery-detail">
+        <div class="gallery-hd">
+                <a href="https://movie.douban.com/trailer/230567/?from=gallery" target="_blank" data-fid="2992">
+                    <h3>本喵&amp;休叔主演《英国式丑闻》5.20开播</h3>
+                </a>
+        </div>
+        <div class="gallery-bd">
+            <p>
+                BBC出品三集片，真实事件改编，休叔与本喵组CP，《女王》导演斯蒂芬·弗雷斯执导，《同志亦凡人》编剧拉塞尔·T·戴维斯执笔！
+            </p>
+        </div>
+    </div>
+</div>
+
+                </li>
+                <li class='ui-slide-item'>
+                    
+<div class="gallery-frame">
+        <a href="https://www.douban.com/note/667099736/?from=gallery" target="_blank" data-fid="2986">
+            <img src="https://img3.doubanio.com/view/movie_gallery_frame_hot_rec/normal/public/b26ab60d3fba8d5.jpg" alt="贫嘴十级的张一山，果然是小鲜肉里的脏脏包" width="350" height="240"/>
+        </a>
+    <div class="gallery-detail">
+        <div class="gallery-hd">
+                <a href="https://www.douban.com/note/667099736/?from=gallery" target="_blank" data-fid="2986">
+                    <h3>贫嘴十级的张一山，果然是小鲜肉里的脏脏包</h3>
+                </a>
+        </div>
+        <div class="gallery-bd">
+            <p>
+                刘梅阿姨，快来管管你家刘星！
+            </p>
+        </div>
+    </div>
+</div>
+
+                </li>
+        </ul>
+    </div>
+</div>
+
+
+    
+
+    
+    
+    
+    <div id="reviews" class="s" data-dstat-areaid="77" data-dstat-mode="click,expose">
+        <div class="reviews-hd">
+            <h2>最受欢迎的影评<span><a href="/review/best/">更多热门影评&raquo;</a></span><span><a href="/review/latest/">新片影评&raquo;</a></span></h2>
+        </div>
+        <div class="reviews-bd">
+                
+    <div class="review ">
+        <div class="review-hd">
+            <a href="https://movie.douban.com/subject/27107131/?from=reviews">
+                    <img class="lazy"
+                        data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519613123.jpg"
+                        src="https://img3.doubanio.com/f/movie/54a69da17972770faffce1f758c820ecb8e440af/pics/movie/grey.gif"
+                        alt="结爱·千岁大人的初恋" />
+            </a>
+        </div>
+        <div class="review-bd">
+            <h3><a href="https://movie.douban.com/review/9366215/" class="">熬夜刷八集！！！</a></h3>
+            <div class="review-meta">
+                <a href="https://www.douban.com/people/155603461/">小慢</a> 评论
+                <a href="https://movie.douban.com/subject/27107131/?from=reviews">《结爱·千岁大人的初恋》</a>
+
+                    <span class="allstar40"></span>
+            </div>
+            <div class="review-content">
+                大晚上热的睡不着然后找了这个之前被室友安利的电视来看   妈耶真的还可以    熬夜刷了八集   我是真的很吃这种剧情这种套路！！！ 演女主小时候的那个小女孩是真的好可爱啊哈哈哈特别喜欢一开始能看的下去也是这...
+                    <a href="https://movie.douban.com/review/9366215/">(全文)</a>
+            </div>
+        </div>
+    </div>
+
+                
+    <div class="review ">
+        <div class="review-hd">
+            <a href="https://movie.douban.com/subject/30192056/?from=reviews">
+                    <img class="lazy"
+                        data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520100330.jpg"
+                        src="https://img3.doubanio.com/f/movie/54a69da17972770faffce1f758c820ecb8e440af/pics/movie/grey.gif"
+                        alt="帝王攻略" />
+            </a>
+        </div>
+        <div class="review-bd">
+            <h3><a href="https://movie.douban.com/review/9366605/" class="">来个痛快点的</a></h3>
+            <div class="review-meta">
+                <a href="https://www.douban.com/people/155607123/">花怜要开车</a> 评论
+                <a href="https://movie.douban.com/subject/30192056/?from=reviews">《帝王攻略》</a>
+
+                    <span class="allstar50"></span>
+            </div>
+            <div class="review-content">
+                很喜欢古风的作品，对于武侠仙侠古风类的完全没有抵抗力，耽美的就更不用说了，所以看到这部动画片的时候必须果断入了坑，画风是我喜欢的画风，很唯美，剧情方木，我也没看过小说，目前还看不出什么，毕竟才这么...
+                    <a href="https://movie.douban.com/review/9366605/">(全文)</a>
+            </div>
+        </div>
+    </div>
+
+                
+    <div class="review ">
+        <div class="review-hd">
+            <a href="https://movie.douban.com/subject/26774033/?from=reviews">
+                    <img class="lazy"
+                        data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520543845.jpg"
+                        src="https://img3.doubanio.com/f/movie/54a69da17972770faffce1f758c820ecb8e440af/pics/movie/grey.gif"
+                        alt="幕后玩家" />
+            </a>
+        </div>
+        <div class="review-bd">
+            <h3><a href="https://movie.douban.com/review/9365017/" class="">徐峥的发型</a></h3>
+            <div class="review-meta">
+                <a href="https://www.douban.com/people/159458448/">DM</a> 评论
+                <a href="https://movie.douban.com/subject/26774033/?from=reviews">《幕后玩家》</a>
+
+                    <span class="allstar30"></span>
+            </div>
+            <div class="review-content">
+                习惯了徐峥的秃头还真不习惯他稀松的发质。不过他的演技还是在线的。幕后玩家的故事挺吸引人的,逻辑上也没有什么不妥, 剧情扣人心弦。一直猜幕后也没有猜到, 所以看得还是很爽的。画面也挺考究, 屋子的颜色背景格...
+                    <a href="https://movie.douban.com/review/9365017/">(全文)</a>
+            </div>
+        </div>
+    </div>
+
+                
+    <div class="review last">
+        <div class="review-hd">
+            <a href="https://movie.douban.com/subject/26384741/?from=reviews">
+                    <img class="lazy"
+                        data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516914607.jpg"
+                        src="https://img3.doubanio.com/f/movie/54a69da17972770faffce1f758c820ecb8e440af/pics/movie/grey.gif"
+                        alt="湮灭" />
+            </a>
+        </div>
+        <div class="review-bd">
+            <h3><a href="https://movie.douban.com/review/9366570/" class="">烧脑</a></h3>
+            <div class="review-meta">
+                <a href="https://www.douban.com/people/157648548/">请、微笑</a> 评论
+                <a href="https://movie.douban.com/subject/26384741/?from=reviews">《湮灭》</a>
+
+                    <span class="allstar40"></span>
+            </div>
+            <div class="review-content">
+                看过电影的观众心里肯定会有一些疑惑，比如，如片中所述，莉娜已经得知回来的凯恩是复制人，为什么不但没有揭穿他，反而与其亲切相拥？其实这个疑点正是影片的精髓所在，正是这个疑点让之前2个钟头的电影剧情有了...
+                    <a href="https://movie.douban.com/review/9366570/">(全文)</a>
+            </div>
+        </div>
+    </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+            </div>
+            <div class="aside">
+                
+    
+    
+
+    
+    
+
+    <div class="rating_answer">
+        <ul>
+            <li>
+                <a href="https://blog.douban.com/douban/2015/12/18/3060/" target="_blank">豆瓣电影评分八问</a>
+            </li>
+        </ul>
+    </div>
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_home_side_top"></div>
+    <div id="dale_movie_home_top_right" class="s" data-dstat-areaid="71" data-dstat-mode="click,expose"></div>
+    <!-- douban ad end -->
+
+    
+  
+  
+  
+  <div class="hot_link">
+    <h2> 电影活动 &nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;·&nbsp;· </h2>
+    <ul>
+          <li>
+              <a href="https://movie.douban.com/trailer/230792/" data-bid="2581" target="_blank">
+                  观影会客厅 | 《复联3》角色全灭？
+              </a>
+          </li>
+          <li>
+              <a href="https://www.douban.com/note/668891697/" data-bid="2580" target="_blank">
+                  大新闻！《大侦探福尔摩斯3》定档2020
+              </a>
+          </li>
+    </ul>
+  </div>
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_home_top_right_ford" class="s" data-dstat-areaid="71" data-dstat-mode="click,expose"></div>
+    <div id="dale_movie_home_top_right2" class="s" data-dstat-areaid="71" data-dstat-mode="click,expose"></div>
+    <!-- douban ad end -->
+
+    
+    <div id="billboard" class="s" data-dstat-areaid="75" data-dstat-mode="click,expose">
+        <div class="billboard-hd">
+            <h2>本周口碑榜<span><a href="/chart">更多榜单&raquo;</a></span></h2>
+        </div>
+        <div class="billboard-bd">
+            <table>
+                    <tr>
+                        <td class="order">1</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/24773958/">复仇者联盟3：无限战争</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">2</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/27098888/">羞辱</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">3</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/26936217/">一袋弹子</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">4</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/30146843/">德九</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">5</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/25937991/">命运之夜 天之杯 第一章</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">6</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/30183608/">艾玛</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">7</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/26949241/">游戏之夜</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">8</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/27092745/">乌鸦</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">9</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/26610786/">战犬瑞克斯</a></td>
+                    </tr>
+                    <tr>
+                        <td class="order">10</td>
+                        <td class="title"><a onclick="moreurl(this, {from:'mv_rk'})" href="https://movie.douban.com/subject/26951690/">病友们</a></td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+
+    
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_home_bottom_right"></div>
+    <!-- douban ad end -->
+
+    
+    
+
+    <div id="doulist">
+        <h2>热门豆列</h2>
+        <ul>
+            <li>
+            <span>11推荐</span>
+            <div class="title"><a target="_blank" href="https://www.douban.com/doulist/1502467/">◆◆历届柏林电影节金熊奖◆◆</a></div>
+            </li>
+            <li>
+            <span>15推荐</span>
+            <div class="title"><a target="_blank" href="https://www.douban.com/doulist/1753204/">立志成为喜剧界的Abed</a></div>
+            </li>
+        </ul>
+    </div>
+
+
+    
+    <div id="contact-and-cooperation">
+        <div class="contact-and-cooperation-hd">
+            <h2>合作联系</h2>
+        </div>
+        <div class="contact-and-cooperation-bd">
+            <ul>
+                    <li>电影合作邮箱：<img src="https://img3.doubanio.com/f/movie/c858df348b4d199c848774ed1b3ed529052f0fa1/pics/movie/email_movie.png"/></li>
+                    <li>电视剧合作邮箱：
+                        <img src="https://img3.doubanio.com/f/movie/4de38ce91fdad7bcf3246c2594c84fa800eba08a/pics/movie/email_tv.png"/>
+                        <img src="https://img3.doubanio.com/f/shire/486503da8c82ffdbecec41c065927f96cbf02e4f/pics/icon/ic_new.png" class="new" />
+                    </li>
+            </ul>
+        </div>
+    </div>
+    
+
+    <br/>
+    
+    
+    <div class="contact mod">
+        <h2>关注我们</h2>
+        <ul class="embassy-list clearfix">
+            <li>
+                <a href="http://weibo.com/doubanfilm" target="_blank" class="icon-embassy-weibo"></a>
+                <a href="http://weibo.com/doubanfilm" target="_blank" class="primary-link">微博</a>
+            </li>
+            <li>
+                <a class="icon-embassy-weixin">
+                    <div class="hover"><img src="https://img3.doubanio.com/f/movie/2e2ea342f4f4590300de32c5f30a9184176b3541/pics/movie/home_wechat_qrcode@2x.jpg" width="130px" height="130px"></div>
+                </a>
+                <a class="primary-link" href="javascript:;">微信</a>
+            </li>
+            <li>
+                <a href="http://weibo.com/doubanzui" target="_blank" class="icon-embassy-bite-me"></a>
+                <a href="http://weibo.com/doubanzui" target="_blank" class="primary-link">瓣嘴</a>
+            </li>
+            <li>
+                <a href="https://site.douban.com/doubanfilmawards/" target="_blank" class="icon-embassy-award-site"></a>
+                <a href="https://site.douban.com/doubanfilmawards/" target="_blank" class="primary-link">鑫像奖小站</a>
+            </li>
+            <li>
+                <a href="https://www.douban.com/people/nobodyfilm/" target="_blank" class="icon-embassy-club-site"></a>
+                <a href="https://www.douban.com/people/nobodyfilm/" target="_blank" class="primary-link">观影club</a>
+            </li>
+        </ul>
+    </div>
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_home_inner_bottom"></div>
+    <div id="dale_movie_home_download_bottom"></div>
+    <!-- douban ad end -->
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_home_bottom_right_down"></div>
+    <!-- douban ad end -->
+
+            </div>
+            <div class="extra">
+                
+    <!-- douban ad begin -->
+    <div id="dale_movie_homepage_bottom"></div>
+    <!-- douban ad end -->
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2018 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1dd9ea66a9b8c99b.js"></script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="https://img3.doubanio.com/f/movie/1d829b8605b9e81435b127cbf3d16563aaa51838/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="https://img3.doubanio.com/f/shire/4ea3216519a6183c7bcd4f7d1a6d4fd57ce1a244/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='https://www.douban.com';
+var account_pop={open:function(o,e){e?referrer="?referrer="+encodeURIComponent(e):referrer="?referrer="+window.location.href;var n="",i="",t=382;"reg"===o?(n="用户注册",i="https://accounts.douban.com/popup/login?source=movie#popup_register",t=480):"login"===o&&(n="用户登录",i="https://accounts.douban.com/popup/login?source=movie");var r=document.location.protocol+"//"+document.location.hostname,a=dui.Dialog({width:478,title:n,height:t,cls:"account_pop",isHideTitle:!0,modal:!0,content:"<iframe scrolling='no' frameborder='0' width='478' height='"+t+"' src='"+i+"' name='"+r+"'></iframe>"},!0),c=a.node;if(c.undelegate(),c.delegate(".dui-dialog-close","click",function(){var o=$("body");o.find("#login_msk").hide(),o.find(".account_pop").remove()}),$(window).width()<478){var u="";"reg"===o?u=HTTPS_DB+"/accounts/register"+referrer:"login"===o&&(u=HTTPS_DB+"/accounts/login"+referrer),window.location.href=u}else a.open();$(window).bind("message",function(o){"https://accounts.douban.com"===o.originalEvent.origin&&(c.find("iframe").css("height",o.originalEvent.data),c.height(o.originalEvent.data),a.update())})}};Douban&&Douban.init_show_login&&(Douban.init_show_login=function(o){var e=$(o);e.click(function(){var o=e.data("ref")||"";return account_pop.open("login",o),!1})}),Do(function(){$("body").delegate(".pop_register","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("reg",e),!1}),$("body").delegate(".pop_login","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("login",e),!1})});
+    </script>
+
+    
+    <!-- douban ad begin -->
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'ZTgtB7Zbzuc',
+            criteria = '3:/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_homepage_top_large', 'dale_movie_home_top_right', 'dale_movie_home_top_right_ford', 'dale_movie_home_top_right2', 'dale_movie_home_side_top', 'dale_movie_home_main_top', 'dale_movie_home_bottom_right', 'dale_movie_homepage_bottom', 'movie_home_left_bottom', 'dale_movie_home_bottom_right_down', 'dale_movie_home_inner_bottom', 'dale_movie_home_download_bottom'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/adjs/cdc904d1376a43e44bbf399a0aff51973016cd77/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+    <!-- douban ad end -->
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+    
+
+    <!-- sindar13c-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+
